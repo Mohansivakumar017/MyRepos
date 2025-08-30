@@ -6,5 +6,4 @@ int main(){
 	cout << "HIII WORLD !";
 
 	return 0;
-
 }
